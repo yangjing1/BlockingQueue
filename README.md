@@ -8,6 +8,9 @@
 等待异步线程执行完成。
 释放资源，退出程序。
 
+##程序入口
+SubOrderHisMerge.java类下的main函数为入口
+
 ##作者名单 
 
 Github | Name
